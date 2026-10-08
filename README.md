@@ -5,6 +5,7 @@
 vi-view is a Google Earth-like map viewer for the Grand Theft Auto games. It imports a game's map from a local install and renders it in 2D, 3D, and Free Camera views, with tools for measuring, annotation, and comparison.
 
 [![Youtube Redirect](https://img.youtube.com/vi/cTz3gypNG8w/0.jpg)](https://www.youtube.com/watch?v=cTz3gypNG8w)
+
 Video Demo: https://www.youtube.com/watch?v=cTz3gypNG8w
 
 Features:
